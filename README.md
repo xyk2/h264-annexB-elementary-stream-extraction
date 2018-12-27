@@ -3,3 +3,10 @@ My friend's bag got stolen overnight from our parked rental car. The security ca
 `ffmpeg -loglevel trace` (see `ffreport.txt`) - used to read the NALs, PPS, and SPSs
 
 A hex editor was used to modify the NAL units and IDCs, and add padding 00 bytes where needed
+
+### Some useful links
+- https://stackoverflow.com/questions/7923752
+- https://stackoverflow.com/questions/24884827
+- https://stackoverflow.com/questions/37443588
+- https://stackoverflow.com/questions/20682275
+- https://stackoverflow.com/questions/11330764
